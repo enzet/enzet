@@ -4,7 +4,7 @@ I’m currently working on
   - map rendreng project [Map Machine](https://github.com/enzet/map-machine) (and experimental [OpenMoonMap](https://github.com/enzet/OpenMoonMap) based on it),
   - language learning research project [Emmio](https://github.com/enzet/Emmio).
 
-The fastest way to contact me on any issue is Telegram: [`@enzet`](https://t.me/enzet).
+The fastest way to contact me on any issue is Telegram: [`@enzet`](https://enzet.t.me).
 
 ![](https://hit.yhype.me/github/profile?user_id=2399987)
 <!--
