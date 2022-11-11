@@ -8,6 +8,8 @@ In my spare time I’m currently working on
 
 The fastest way to contact me on any issue is Telegram: [`@enzet`](https://enzet.t.me).
 
+Mastodon: [`@enzet@masto.ai`](https://masto.ai/@enzet).
+
 ![](https://hit.yhype.me/github/profile?user_id=2399987)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzet)](https://github.com/anuraghazra/github-readme-stats)
