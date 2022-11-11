@@ -1,12 +1,17 @@
 ### Hi, I’m Sergey 👋
 
-As a system programmer, I’m interested in dynamic and static program analysis; created [the Diagram of Symbolic Execution](https://github.com/enzet/symbolic-execution).
+As a system programmer, I’m interested in dynamic and static program analysis;
+created [the Diagram of Symbolic
+Execution](https://github.com/enzet/symbolic-execution).
 
 In my spare time I’m currently working on
-  - map rendreng project [Map Machine](https://github.com/enzet/map-machine) (and experimental [OpenMoonMap](https://github.com/enzet/OpenMoonMap) based on it),
+  - map rendreng project [Map Machine](https://github.com/enzet/map-machine)
+    (and experimental [OpenMoonMap](https://github.com/enzet/OpenMoonMap) based
+    on it),
   - language learning research project [Emmio](https://github.com/enzet/Emmio).
 
-The fastest way to contact me on any issue is Telegram: [`@enzet`](https://enzet.t.me).
+The fastest way to contact me on any issue is Telegram:
+[`@enzet`](https://enzet.t.me).
 
 Mastodon: [`@enzet@masto.ai`](https://masto.ai/@enzet).
 
