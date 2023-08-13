@@ -8,6 +8,7 @@ In my spare time I’m currently working on
   - map rendreng project [Map Machine](https://github.com/enzet/map-machine)
     (and experimental [OpenMoonMap](https://github.com/enzet/OpenMoonMap) based
     on it),
+  - semi-generated icon set [Röntgen](https://github.com/enzet/Roentgen),
   - language learning research project [Emmio](https://github.com/enzet/Emmio).
 
 The fastest way to contact me on any issue is Telegram:
