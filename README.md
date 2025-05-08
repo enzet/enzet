@@ -19,10 +19,4 @@ different topics:
 
 The quickest way to reach me is through Telegram:
 [`@enzet`](https://enzet.t.me). My Mastodon is
-[`@enzet@masto.ai`](https://masto.ai/@enzet).
-
-![](https://hit.yhype.me/github/profile?user_id=2399987)
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzet)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+[`@enzet@masto.ai`](https://masto.ai/@enzet). ![](https://hit.yhype.me/github/profile?user_id=2399987) <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzet)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzet&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
