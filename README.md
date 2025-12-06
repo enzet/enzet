@@ -8,8 +8,10 @@ In my spare time, I’m working on several open-source research projects on
 different topics:
   - a map rendering project [Map Machine](https://github.com/enzet/map-machine)
     (and experimental [OpenMoonMap](https://github.com/enzet/OpenMoonMap)),
-  - a semi-generated icon set [Röntgen](https://github.com/enzet/Roentgen),
-  - a language learning research project
+  - an icon set [Röntgen](https://github.com/enzet/Roentgen) and the
+    [iconscript](https://github.com/enzet/iconscript) language for describing
+    icons,
+  - a language-learning research project
     [Emmio](https://github.com/enzet/Emmio),
   - an experimental
     [phonetic alphabet](https://github.com/enzet/phonetic-alphabet).
